@@ -1,0 +1,18 @@
+{
+    "code --list-extensions": [
+        "abusaidm.html-snippets",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "EQuimper.react-native-react-redux",
+        "jakob101.RelativePath",
+        "ms-mssql.mssql",
+        "ms-vscode.csharp",
+        "ms-vscode.PowerShell",
+        "ms-vscode.vs-keybindings",
+        "qinjia.filenamecomplete",
+        "robertohuertasm.vscode-icons",
+        "xabikos.JavaScriptSnippets",
+        "yzhang.markdown-all-in-one"
+    ]
+
+}
